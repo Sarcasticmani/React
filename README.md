@@ -1,13 +1,17 @@
 # React
-A React Repository to creat web app from basic to advance level. 
+
+A React repository to create web apps from basic to advanced levels.
 
 ## Introduction
-This repostiory is mainly created to create web app using JavaScript framwork React. This app can level from beginner to expert level.
- 
+
+This repository is primarily created to develop web apps using the JavaScript framework React. The applications included range from beginner to expert levels.
+
 ## Contribution
- 
- Read `Contribution.md` for more details.
- 
-## Licence
-The code is `MIT Licence`
+
+Please refer to `Contribution.md` for more details on how to contribute.
+
+## License
+
+The code is licensed under the MIT License.
+
  
